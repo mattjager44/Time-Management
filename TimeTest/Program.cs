@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Globalization;
-using: 
+using: asdADasdASDawd
 namespace TimeTest
 {
     class Program
